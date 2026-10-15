@@ -1,0 +1,8 @@
+# Developed with Python 3.13 on Windows (CPU-only).
+# Exact package versions were not recorded; see "Reproducibility" in README.md.
+numpy
+pandas
+matplotlib
+Pillow
+scikit-learn
+tensorflow
